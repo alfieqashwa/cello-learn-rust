@@ -1,5 +1,7 @@
 fn main() {
-    let result = fizzbuzz_vec(101);
+    const UPTO_NUM: u64 = 101;
+
+    let result = fizzbuzz_vec(UPTO_NUM);
     println!("{:#?}", result)
 }
 
