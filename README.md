@@ -8,7 +8,7 @@
 - cargo rr
 
 ## USE RUSTC:
-- rustc folder/file.rs
+- rustc 01-Getting-Started/cello-world/main.rs
 
 ## VSCode Extension:
 - Rust Analyzer
